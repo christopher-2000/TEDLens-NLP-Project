@@ -6,4 +6,4 @@ TED Talks, known for their wealth of knowledge and diverse ideas, continue to se
 Dataset - ![Link to Dataset](https://www.kaggle.com/datasets/miguelcorraljr/ted-ultimate-dataset)
 
 ## Trained Models
-
+![](Images/Architecturev2.png)
